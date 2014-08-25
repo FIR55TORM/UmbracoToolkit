@@ -3,7 +3,7 @@ UmbracoToolkit
 
 Collection of Umbraco specific classes for development.
 
-HtmlHelpers: <br>
+List of HtmlHelpers: <br>
 
 <code>
 @Html.BreadcrumbFor()
